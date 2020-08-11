@@ -1,0 +1,7 @@
+C:\Users\Ayleah Hill\Documents\Program Projects\YelpSimulation\obj\Debug\YelpSimulation.csprojAssemblyReference.cache
+C:\Users\Ayleah Hill\Documents\Program Projects\YelpSimulation\obj\Debug\YelpPlatform1._1.Form1.resources
+C:\Users\Ayleah Hill\Documents\Program Projects\YelpSimulation\obj\Debug\YelpPlatform1._1.Properties.Resources.resources
+C:\Users\Ayleah Hill\Documents\Program Projects\YelpSimulation\obj\Debug\YelpSimulation.csproj.GenerateResource.cache
+C:\Users\Ayleah Hill\Documents\Program Projects\YelpSimulation\obj\Debug\YelpSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Ayleah Hill\Documents\Program Projects\YelpSimulation\obj\Debug\YelpPlatform1.1.exe
+C:\Users\Ayleah Hill\Documents\Program Projects\YelpSimulation\obj\Debug\YelpPlatform1.1.pdb
